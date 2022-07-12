@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+}
+.top{
+    background-color: #003140;
+    position: relative;
+    text-align: center;
+    padding-top: 20px; padding-bottom: 50px;
+    color: azure;
+}
+.top1{
+    text-align: left;
+    padding: 20px 0px 20px 40px;
+    background-color: #035d79;
+}
+a{
+    color: aliceblue;
+}
+#giphy1{
+    padding-top: 50px;
+    width: 200px;
+}
+/*--------------------------------------------------------------*/
+.middle{
+    text-align: center;
+    margin: 20px 0px 20px 0px;
+}
+#about{
+    margin: 0px 20px 0px 20px;
+    line-height: 1.5;
+}
+#educationtable{
+    width: 800px;
+    margin: 0 auto 0 auto;
+}
+#giphy2{
+    width: 150px;
+    margin: 0 auto 0 auto;
+}
+#skillstable{
+    width: 300px;
+    margin: 0 auto 0 auto;
+}
+
+/*--------------------------------------------------------------*/
+.bottom{
+    background-color: #003140;
+    position: relative;
+    text-align: center;
+    padding-top: 20px; padding-bottom: 50px;
+    color: azure;
+}
+#contact{
+    background-color: #035d79;
+    color: azure;
+}
+#username{
+    color: azure;
+    padding-top: 0;
+    font-size: small;
+}
+#phone{
+    background-color: #035d79;
+    color: azure;
+    font-size: small;
+}
+
